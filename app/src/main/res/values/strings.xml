@@ -17,4 +17,7 @@
     <string name="Baller">Baller</string>
     <string name="Finish">Finish</string>
     <string name="nextClicked">nextClicked</string>
+    <string name="onMensClicked">onMensClicked</string>
+    <string name="onWomensClicked">onWomensClicked</string>
+    <string name="onCoedClicked">onCoedClicked</string>
 </resources>
