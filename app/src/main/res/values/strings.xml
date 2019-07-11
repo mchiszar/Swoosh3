@@ -9,4 +9,7 @@
     <string name="Womens">Womens</string>
     <string name="Coed">Coed</string>
     <string name="Next">Next</string>
+    <string name="SwooshLogo">swooshlogo</string>
+    <string name="desiredleague">Desired League</string>
+    <string name="Background">Background</string>
 </resources>
