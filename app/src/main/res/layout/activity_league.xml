@@ -63,9 +63,9 @@
             android:text="@string/Next"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:id="@+id/button2" app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
-            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp" android:layout_marginBottom="8dp"
+            android:id="@+id/nextBtn" app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="16dp"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="16dp" android:layout_marginBottom="16dp"
             app:layout_constraintBottom_toBottomOf="@+id/imageView3" android:background="@drawable/swooshbutton"
             android:textColor="@android:color/white" android:fontFamily="@font/montserrat"
-            android:contentDescription="@string/Next"/>
+            android:contentDescription="@string/Next" android:onClick="@string/nextClicked"/>
 </android.support.constraint.ConstraintLayout>

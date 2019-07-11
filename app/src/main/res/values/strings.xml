@@ -12,4 +12,9 @@
     <string name="SwooshLogo">swooshlogo</string>
     <string name="desiredleague">Desired League</string>
     <string name="Background">Background</string>
+    <string name="IamA">I am a</string>
+    <string name="Beginner">Beginner</string>
+    <string name="Baller">Baller</string>
+    <string name="Finish">Finish</string>
+    <string name="nextClicked">nextClicked</string>
 </resources>
