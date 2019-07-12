@@ -1,4 +1,4 @@
-package com.example.swoosh3
+package com.example.swoosh3.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

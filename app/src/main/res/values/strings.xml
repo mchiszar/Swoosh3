@@ -20,4 +20,9 @@
     <string name="onMensClicked">onMensClicked</string>
     <string name="onWomensClicked">onWomensClicked</string>
     <string name="onCoedClicked">onCoedClicked</string>
+    <string name="Exercise">Exercise</string>
+    <string name="search_league">Looking for a coed beginner league near you...</string>
+    <string name="onbeginclk">onBeginnerClicked</string>
+    <string name="onballerclicked">onBallerClicked</string>
+    <string name="onSkillFinishedClicked">onSkillFinishedClicked</string>
 </resources>
